@@ -1,0 +1,8 @@
+Timestamp,Pregnancies,Glucose,Blood_Pressure,Skin_Thickness,Insulin,BMI,DPF,Age,Diagnosis
+2026-06-14 14:26:12,0,122.0,70.0,17.0,79.0,32.0,0.52,33,Low Risk
+2026-06-14 14:26:26,0,122.0,70.0,17.0,79.0,32.0,0.52,33,Low Risk
+2026-06-14 14:30:01,Charishma Chithuluri,chithuluricharishma@gmail.com,0,120.0,70.0,20.0,79.0,32.0,0.5,33,Low Risk
+2026-06-14 14:34:35,Charishma Chithuluri,chithuluricharishma@gmail.com,2,115.0,67.0,16.0,82.0,32.2,0.59,29,Low Risk
+2026-06-14 14:35:03,Charishma Chithuluri,chithuluricharishma@gmail.com,4,119.0,81.0,29.0,93.0,32.9,0.67,47,Low Risk
+2026-06-14 14:35:14,Charishma Chithuluri,chithuluricharishma@gmail.com,4,119.0,81.0,29.0,107.0,32.9,0.67,47,Low Risk
+2026-06-14 14:35:35,Charishma Chithuluri,chithuluricharishma@gmail.com,4,128.0,81.0,29.0,107.0,32.9,0.67,47,High Risk
