@@ -1,0 +1,1 @@
+This project is an intelligent healthcare solution designed to provide real-time patient risk assessment and generate actionable, personalized care plans. By leveraging machine learning models and generative AI, the application enables healthcare providers to make data-driven decisions quickly and accurately.
